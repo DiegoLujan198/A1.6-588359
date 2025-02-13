@@ -17,4 +17,4 @@ actividad 48 horas antes del domingo a medianoche.
 
 - [HTML](./A1.6_588359.html)
 - [Jupyter Notebook](./A1.6_588359.ipynb)
-- [Base de Datos](./A1.6_Tiempo%de%Entrega.csv)
+- [Base de Datos](./A1.6_Tiempo_de_Entrega.csv)
