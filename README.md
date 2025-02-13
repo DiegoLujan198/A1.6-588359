@@ -15,3 +15,6 @@ actividad 48 horas antes del domingo a medianoche.
 
  “Calificacion”. Calificación obtenida, en una escala entre el 0 y el 110.
 
+- [HTML](./A1.6_588359.html)
+- [Jupyter Notebook](./A1.6_588359.ipynb)
+- [Base de Datos](./A1.6_Tiempo%de%Entrega.csv)
